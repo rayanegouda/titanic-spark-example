@@ -8,8 +8,8 @@ the titanic passengers based on various factors such as age, gender, fare, etc.
 
 # Credits
 
-Kaggle (for the Titanic Dataaset)
-Julien Nauroy (on the initial Scala code for reading the data and running RandomForest on it)
+- Kaggle (for the Titanic Dataaset)
+- Julien Nauroy (on the initial Scala code for reading the data and running RandomForest on it)
 
 # Pre-requisites
 
